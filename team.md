@@ -5,9 +5,13 @@ description: Team
 bodyClass: page-team
 ---
 
+## Leadership Team
 
+Our team brings together leading experts in multi-omics AI, bioinformatics, and computational biology. See our [About page](/about/) for complete team information and published research.
 
-See some of our published work below
+### Published Research
+
+Our methodology is validated through peer-reviewed publications in leading scientific journals:
 
 [Multi-level analysis of the gut–brain axis shows autism spectrum disorder-associated molecular and microbial profiles, *Nature Neuroscience*](https://www.nature.com/articles/s41593-023-01361-0)
 

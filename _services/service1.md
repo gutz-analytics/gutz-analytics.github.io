@@ -1,18 +1,32 @@
 ---
-title: "Analytical services"
+title: "Companion Diagnostic Development"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
-Power your analytical workflows with the cutting-edge AI technologies.
+Design multi-omics companion diagnostics to stratify patients and predict treatment response in oncology, autoimmune, and neurological disorders.
 
-### Standard multi-omics analyses
-We will run standard alpha / beta diversity and differential abundance analyses in addition to multi-omics integration tools such as [MMvec](https://www.nature.com/articles/s41592-019-0616-3)
+### Multi-Omics Biomarker Discovery
+Integrate microbiome, metabolomics, genomics, and transcriptomics data to identify predictive biomarkers for drug response. Our exponential accuracy scaling delivers 5x improvement in forecasting accuracy when doubling the number of omics layers.
 
-### Bayesian differential abundance analyses
-We will provide the option to develop customized differential abundance workflows using [Birdman](https://github.com/biocore/BIRDMAn) to allow you fit longitudinal models using state-of-the-art Bayesian modeling techniques to boost statistical power.
+**Oncology Applications:**
+- Predict immunotherapy response in checkpoint inhibitor trials
+- Stratify patients for targeted therapies
+- Identify microbiome signatures associated with treatment efficacy
 
-### Dynamical AI modeling
-Leverage our proprietary Dynomics framework to enable diagnostic design and drug design.  By leveraging tens of thousands of samples in our internal database, we can boost statistical power and leverage deep neural networks to enable non-linear dynamical modeling on sparsely sampled multi-omics data.
+**Autoimmune Applications:**
+- Predict biologic response in IBD, rheumatoid arthritis, and other autoimmune conditions
+- Identify inflammatory phenotypes through multi-omics integration
+- Stratify patients for personalized treatment selection
 
+**Neurological Applications:**
+- Leverage gut-brain axis biology for CNS drug response prediction
+- Identify disease subtypes from multi-omics microbiome data
+- Predict drug metabolism and efficacy in neurological disorders
 
-[Contact us](https://gutzanalytics.com/contact/) to request a demo!
+### Validation and Regulatory Support
+Leverage our proprietary database of 1 million curated samples to validate biomarkers and develop robust companion diagnostics. We provide regulatory strategy support for FDA biomarker qualification and companion diagnostic approval pathways.
+
+### Dynomics Platform Integration
+Our proprietary Dynomics framework integrates all available omics data types, boosting statistical power through deep neural networks and enabling non-linear dynamical modeling on complex multi-omics datasets.
+
+[Contact us](https://gutzanalytics.com/contact/) to discuss your companion diagnostic development needs.

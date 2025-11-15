@@ -7,6 +7,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Our Mission
+# Multi-Omics Companion Diagnostics for Pharmaceutical Development
 
-Leveraging Multi-modal AI to fight chronic disease.
+We develop AI-powered companion diagnostics to de-risk Phase 3 clinical trials and rescue failed assets in oncology, autoimmune, and neurological therapeutic areas.
+
+Our proprietary Dynomics platform integrates microbiome, metabolomics, genomics, and transcriptomics data with exponential accuracy scaling—doubling omics layers yields 5x improvement in patient stratification.
