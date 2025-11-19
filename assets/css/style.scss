@@ -78,6 +78,9 @@ $sub-footer-text-color: $gray-300;
 @import "homepage-redesign";
 @import "layout-improvements";
 @import "home-redesign"; // New clean homepage
+@import "page-science"; // Science page
+@import "page-whitepaper"; // Whitepaper landing page
+@import "team"; // Team section styling
 
 body {
   font-size: 16px;

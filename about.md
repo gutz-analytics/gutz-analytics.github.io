@@ -7,68 +7,22 @@ bodyClass: page-about
 
 ## Company Overview
 
-Gutz Analytics is pioneering multi-omics AI technology for companion diagnostic development in pharmaceutical clinical trials. Over 5 years, we have built the Dynomics platform, integrating microbiome, metabolomics, genomics, and transcriptomics data to stratify patients and predict treatment response.
-
-We work with pharmaceutical companies to de-risk Phase 3 clinical trials and rescue failed assets in oncology, autoimmune, and neurological therapeutic areas.
-
-### The Dynomics Platform
-
-**Proprietary Database:** 1 million curated samples across microbiome and host transcriptome, enabling robust biomarker discovery and validation.
-
-**Exponential Accuracy Scaling:** Our multi-omics integration delivers exponential improvements in patient stratification—doubling the number of omics layers yields 5x improvement in forecasting accuracy.
-
-**Proven Methodology:** Published in leading scientific journals including Nature Neuroscience, Nature Methods, and Nature Biotechnology.
-
-**Active Research:** Ongoing collaborations demonstrating prediction of immunotherapy response in lung cancer and clinical outcome prediction across multiple disease areas.
+Gutz Analytics is pioneering multi-omics AI technology for companion diagnostic development in pharmaceutical clinical trials. Over 5 years, we have built the Dynomics platform, integrating microbiome, metabolomics, genomics, and transcriptomics data to stratify patients and predict treatment response in oncology, autoimmune, and neurological therapeutic areas.
 
 ## Leadership Team
 
-Our team brings together leading experts in multi-omics AI, bioinformatics, and computational biology.
+<div class="team-grid">
+  <div class="team-member">
+    <img src="/images/team/james_morton.jpg" alt="James Morton" class="team-photo">
+    <h3>James Morton, PhD</h3>
+    <p class="team-title">Founder & CEO</p>
+    <p class="team-bio">Dr. James Morton is a pioneer in biostatistical and machine learning methodologies for multi-omics applications, with research published in Nature Neuroscience, Nature Biotechnology, Nature Methods, and Nature Communications. He received his PhD in Computer Science from UC San Diego and founded Gutz Analytics in 2019 after serving as an investigator at the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD), where he led development of biostatistical methods for high-dimensional, multi-modal longitudinal modeling. His work spans compositional data analysis for microbiome and metabolome integration, differentiable sequence alignment algorithms leveraging large language models for protein structure prediction, and Bayesian differential abundance methods that account for batch effects across multi-omics datasets.</p>
+  </div>
 
-<table>
-  <tr>
-    <td><img src="../images/team/jamie.jpg" alt="jamie.jpg" width="200" height="200"/></td>
-    <td><img src="../images/team/lars.jpeg" alt="lars.jpeg" width="200" height="200"/></td>
-    <td><img src="../images/team/jon.jpeg" alt="jon.jpeg" width="200" height="200"/></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">James Morton <br> CEO </td>
-    <td style="text-align:center">Lars Hunger <br> AI Engineer</td>
-    <td style="text-align:center">Jon Sanders <br> Computational Biologist</td>
-  </tr>
-
-  <tr>
-    <td><img src="../images/team/jenya.jpeg" alt="jenya.jpeg" width="200" height="200"/></td>
-    <td><img src="../images/team/alexey.jpg" alt="alexey.jpg" width="200" height="200"/></td>
-    <td><img src="../images/team/alex.jpeg" alt="alex.jpeg" width="200" height="200"/></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">Evguenia Kopylova<br> Bioinformatics Advisor</td>
-    <td style="text-align:center">Alexey Melnik <br> Metabolomics Advisor</td>
-    <td style="text-align:center">Alexander Aksenov <br> Scientific Advisor</td>
-  </tr>
-</table>
-
-## Platform Validation Through Published Research
-
-Our methodology is validated through peer-reviewed publications demonstrating our capability to integrate multi-omics data for patient stratification and biological subtyping.
-
-### [Multi-level analysis of the gut–brain axis shows autism spectrum disorder-associated molecular and microbial profiles](https://www.nature.com/articles/s41593-023-01361-0)
-*Nature Neuroscience*
-
-**Platform Relevance:** Demonstrates our ability to identify disease subtypes from multi-omics microbiome data. The same methodology is applied to identify drug responder vs non-responder populations in clinical trials.
-
-### [Learning representations of microbe–metabolite interactions](https://www.nature.com/articles/s41592-019-0616-3)
-*Nature Methods*
-
-**Platform Relevance:** Models how microbiome composition affects metabolite profiles. This approach predicts how patient-specific microbiomes will metabolize and respond to therapeutic compounds.
-
-### [Protein remote homology detection and structural alignment using deep learning](https://www.nature.com/articles/s41587-023-01917-2)
-*Nature Biotechnology*
-
-**Platform Relevance:** Demonstrates our AI capability for complex biological pattern recognition across high-dimensional data.
-
-### [Establishing microbial composition measurement standards with reference frames](https://www.nature.com/articles/s41467-019-10656-5)
-*Nature Communications*
-
-**Platform Relevance:** Foundational work on microbiome measurement standardization, critical for developing robust clinical diagnostics.
+  <div class="team-member">
+    <img src="/images/team/jon.jpeg" alt="Jonathan Sanders" class="team-photo">
+    <h3>Jonathan Sanders, PhD</h3>
+    <p class="team-title">Co-Founder & CSO</p>
+    <p class="team-bio">Dr. Jonathan Sanders is an evolutionary biologist and bioinformatician with nearly two decades at the forefront of animal gut microbiome research. He earned his PhD in Organismic and Evolutionary Biology from Harvard University and has contributed to over 75 papers in journals including Science, Nature, and PNAS. Jon led efforts at UC San Diego to automate and miniaturize high-throughput shotgun metagenomic protocols, resulting in publications in Genome Biology and generation of one of the largest metagenomic cohorts assembled at the time. With expertise spanning wet lab specimen processing to computational analysis of massive datasets, Jon has developed flexible cloud-based pipelines and inexpensive genomics protocols that enable rapid characterization of microbial isolates for academic and industry applications.</p>
+  </div>
+</div>
