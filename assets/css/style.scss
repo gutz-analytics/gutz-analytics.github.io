@@ -1,30 +1,43 @@
 ---
 ---
 
-// Colors
-$primary: #0431e3;
-$primary-dark: #1f0f77;
-$secondary: #50c0ff;
-$black: #2f2f41;
-$white: #ffffff;
-$white-offset: #fff6f8;
-$steel: #5c5a5a;
+// ============================================
+// GUTZ ANALYTICS DESIGN SYSTEM
+// ============================================
 
-// Links
-$link-color: $primary;
+// Import new design system variables
+@import "variables";
+@import "typography";
+
+// ============================================
+// LEGACY VARIABLE MAPPINGS
+// (For compatibility with existing theme)
+// ============================================
+
+// Colors - map old variables to new design system
+$primary: $primary-blue;
+$primary-dark: $primary-dark;
+$secondary: $accent-teal;
+$black: $gray-900;
+$white: $white;
+$white-offset: $gray-50;
+$steel: $gray-600;
+
+// Links - use new design system colors
+$link-color: $accent-teal;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 10%);
+$link-hover-color: darken($accent-teal, 10%);
 $link-hover-decoration: underline;
 
-// Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+// Fonts - use new typography system
+$font-family-base: $font-primary;
+$font-family-heading: $font-primary; // Using Inter for both now
 
-// Footer
-$footer-background-color: $primary;
+// Footer - use new color palette
+$footer-background-color: $primary-dark;
 $footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
-$sub-footer-text-color: $white;
+$sub-footer-background-color: darken($primary-dark, 5%);
+$sub-footer-text-color: $gray-300;
 
 // Bootstrap
 @import "bootstrap-variables";
@@ -60,6 +73,14 @@ $sub-footer-text-color: $white;
 @import "pages/page-home";
 @import "pages/page-teams";
 @import "pages/page-service";
+
+// Homepage Redesign (overrides above styles with new design system)
+@import "homepage-redesign";
+@import "layout-improvements";
+@import "home-redesign"; // New clean homepage
+@import "page-science"; // Science page
+@import "page-whitepaper"; // Whitepaper landing page
+@import "team"; // Team section styling
 
 body {
   font-size: 16px;

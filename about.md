@@ -5,40 +5,24 @@ description: About
 bodyClass: page-about
 ---
 
-Our team brings together leading experts in the field of Generative Multi-omics AI and Bioinformatics
+## Company Overview
 
+Gutz Analytics is pioneering multi-omics AI technology for companion diagnostic development in pharmaceutical clinical trials. Over 5 years, we have built the Dynomics platform, integrating microbiome, metabolomics, genomics, and transcriptomics data to stratify patients and predict treatment response in oncology, autoimmune, and neurological therapeutic areas.
 
+## Leadership Team
 
-<table>
-  <tr>
-    <td><img src="../images/team/jamie.jpg" alt="jamie.jpg" width="200" height="200"/></td>
-    <td><img src="../images/team/lars.jpeg" alt="lars.jpeg" width="200" height="200"/></td>
-    <td><img src="../images/team/jon.jpeg" alt="jon.jpeg" width="200" height="200"/></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">James Morton <br> CEO </td>
-    <td style="text-align:center">Lars Hunger <br> AI engineer</td>
-    <td style="text-align:center">Jon Sanders <br> Computational Biologist</td>
-  </tr>
+<div class="team-grid">
+  <div class="team-member">
+    <img src="/images/team/james_morton.jpg" alt="James Morton" class="team-photo">
+    <h3>James Morton, PhD</h3>
+    <p class="team-title">Founder & CEO</p>
+    <p class="team-bio">Dr. James Morton is a pioneer in biostatistical and machine learning methodologies for multi-omics applications, with research published in Nature journals. He received his PhD in Computer Science from UC San Diego and founded Gutz Analytics in 2019 after serving as an investigator at the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD), where he led development of biostatistical methods for high-dimensional, multi-modal longitudinal modeling.</p>
+  </div>
 
-  <tr>
-    <td><img src="../images/team/jenya.jpeg" alt="jenya.jpeg" width="200" height="200"/></td>
-    <td><img src="../images/team/alexey.jpg" alt="alexey.jpg" width="200" height="200"/></td>
-    <td><img src="../images/team/alex.jpeg" alt="alex.jpeg" width="200" height="200"/></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">Evguenia Kopylova<br> Bioinformatics advisor</td>
-    <td style="text-align:center">Alexey Melnik <br> Metabolomics advisor</td>
-    <td style="text-align:center">Alexander Aksenov <br> Scientific advisor</td>
-  </tr>
-</table>
-
-See some of our published work below
-
-[Multi-level analysis of the gut–brain axis shows autism spectrum disorder-associated molecular and microbial profiles](https://www.nature.com/articles/s41593-023-01361-0)
-
-[Protein remote homology detection and structural alignment using deep learning](https://www.nature.com/articles/s41587-023-01917-2)
-
-[Learning representations of microbe–metabolite interactions](https://www.nature.com/articles/s41592-019-0616-3)
-
-[Establishing microbial composition measurement standards with reference frames](https://www.nature.com/articles/s41467-019-10656-5)
+  <div class="team-member">
+    <img src="/images/team/jon.jpeg" alt="Jonathan Sanders" class="team-photo">
+    <h3>Jonathan Sanders, PhD</h3>
+    <p class="team-title">Co-Founder & CSO</p>
+    <p class="team-bio">Dr. Jonathan Sanders is an evolutionary biologist and bioinformatician with nearly two decades at the forefront of gut microbiome research. He earned his PhD in Organismic and Evolutionary Biology from Harvard University and has contributed to over 75 papers in journals including Science, Nature, and PNAS. With expertise spanning wet lab specimen processing to computational analysis of massive datasets, Jon has led efforts to develop high-throughput metagenomic protocols and flexible cloud-based analytical pipelines.</p>
+  </div>
+</div>
