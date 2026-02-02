@@ -7,7 +7,17 @@ bodyClass: page-about
 
 ## Company Overview
 
-Gutz Analytics is pioneering multi-omics AI technology for companion diagnostic development in pharmaceutical clinical trials. Over 5 years, we have built the Dynomics platform, integrating microbiome, metabolomics, genomics, and transcriptomics data to stratify patients and predict treatment response in oncology, autoimmune, and neurological therapeutic areas.
+Gutz Analytics builds AI models to better understand human disease through subtyping. Our mission: lower patient care costs and pave the path for treatments that actually work.
+
+Our Dynomics platform uses Dynamic Variational Autoencoders (DVAE) to create digital twins from multi-omics data—microbiome, metabolomics, proteomics, genomics—enabling precision approaches that match treatments to individual biology.
+
+### Our Current Focus: Autism Spectrum Disorder
+
+We're applying our platform to autism, where we've achieved >80% prediction accuracy in our published meta-analysis. Our *Nature Neuroscience* publication established the autism-gut-brain axis connection, and we're validating our approach through collaborations with leading research institutions.
+
+### Broader Applications
+
+The same platform powers applications in oncology (immunotherapy response), autoimmune diseases, and other neurological conditions—demonstrating the broad utility of our disease subtyping approach.
 
 ## Leadership Team
 
